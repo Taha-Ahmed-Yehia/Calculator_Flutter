@@ -1,6 +1,6 @@
 # Calculator
 
-A new Flutter project.
+An advanced calculator that can run on any platform.
 
 ## Getting Started
 
